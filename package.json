@@ -14,8 +14,28 @@
   "contributes": {
     "commands": [
       {
-        "command": "binary-curse.helloWorld",
-        "title": "Hello World"
+        "command": "extension.binarySearchNavigate",
+        "title": "Binary Search Navigate Start"
+      }
+    ],
+    "keybindings": [
+      {
+        "command": "extension.binarySearchNavigate",
+        "args": "start",
+        "key": "alt+s",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "extension.binarySearchNavigate",
+        "args": "right",
+        "key": "alt+d",
+        "when": "editorTextFocus"
+      },
+      {
+        "command": "extension.binarySearchNavigate",
+        "args": "left",
+        "key": "alt+a",
+        "when": "editorTextFocus"
       }
     ]
   },
