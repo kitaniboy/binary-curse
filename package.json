@@ -1,6 +1,7 @@
 {
   "name": "binary-curse",
   "displayName": "Binary Curse",
+  "publisher": "Kitani",
   "description": "Faster cursor movement using binary search.",
   "version": "0.0.1",
   "engines": {
