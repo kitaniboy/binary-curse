@@ -4,12 +4,19 @@
   "publisher": "Kitani",
   "icon": "images/binary-curse-logo-500.png",
   "description": "Faster cursor movement using binary search.",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.82.0"
   },
   "categories": [
+    "Keymaps",
     "Other"
+  ],
+  "keywords": [
+    "Productivity",
+    "Shortcuts",
+    "Binary Search",
+    "Cursor"
   ],
   "activationEvents": [],
   "main": "./out/extension.js",

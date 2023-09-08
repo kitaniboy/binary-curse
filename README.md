@@ -12,15 +12,19 @@ The Binary Curse extenstion was created to improve your productivity ⚡. Instea
 
 Commands:
 
-* `binary-search.binarySearchNavigate`: Start the extension (Move to the middle).
+* `binary-search.binarySearchNavigate`: Start the extension (Jump to the middle).
 
 Keybindings:
 
-* `Alt + S`: Start the extension (Move to the middle).
+* `Alt + S`: Start the extension (Jump to the middle).
 * `Alt + A`: Move to the right.
 * `Alt + D`: Move to the left.
 
 ## Release Notes
+
+### v0.0.5
+
+Updated manifest file.
 
 ### v0.0.4
 
