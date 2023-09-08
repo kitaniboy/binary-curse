@@ -1,9 +1,25 @@
 # Change Log
 
-All notable changes to the "binary-curse" extension will be documented in this file.
+## v0.0.6
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Updated the changelog.
 
-## [Unreleased]
+## v0.0.5
 
-- Initial release
+- Updated manifest file.
+
+## v0.0.4
+
+- Updated extension description.
+
+## v0.0.3
+
+- Updated the logo.
+
+## v0.0.2
+
+- Added the logo.
+
+## v0.0.1
+
+- Initial release.
