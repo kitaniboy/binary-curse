@@ -21,3 +21,7 @@ Keybindings:
 * `Alt + S`: Start the extension (Jump to the middle).
 * `Alt + A`: Move to the right.
 * `Alt + D`: Move to the left.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
