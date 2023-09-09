@@ -4,6 +4,8 @@ The Binary Curse extenstion was created to improve your productivity ⚡. Instea
 
 ## Features
 
+![Demonstration of Binary Curse](images/binary-curse-animation.gif)
+
 * Quick Navigation: Jump to the desired position in long lines within milliseconds.
 
 * Intuitive Usage: User experience has been taken into account when creating this extension, and WASD keys were used to give a special advantage to gamers.
